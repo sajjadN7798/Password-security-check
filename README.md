@@ -1,4 +1,4 @@
-# Password-security-check
+# Password security check
 Jquery Password Security Check With Material UI
 # Criterion: 
 * Special character
