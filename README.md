@@ -1,5 +1,5 @@
 # Password security check
-Jquery Password Security Check With Material UI
+Password Security Check with Jquery
 # Criterion: 
 * Special character
 * Alphabet
