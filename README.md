@@ -1,5 +1,5 @@
-# Password security check
-Password Security Check with Jquery
+# Check password security 
+check password security with Jquery
 # Criterion: 
 * Special character
 * Alphabet
